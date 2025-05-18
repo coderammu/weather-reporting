@@ -1,4 +1,5 @@
-## Project Title: 
+## Project Title:
+
 Weather Forecast Website
 
 ## Project Description:
@@ -22,3 +23,11 @@ The interface is designed to be clean and user-friendly, giving users a simple y
 - Integration with free Open-Meteo APIs
 
 - Clear and responsive user interface
+
+## Built With:
+
+**ReactJS** – For building the UI
+
+**Tailwind CSS** – For styling
+
+**Hosting** : Netlify - https://weather-forecast-web-demo.netlify.app
